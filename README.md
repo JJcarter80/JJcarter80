@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Programmer</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">YouTuber</a></h1>
+<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Python Automation Programmer</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
