@@ -5,7 +5,7 @@
 - <b>Describe and Change File Permissions (Linux)</b>
   - [Linux File Permissions](file:///C:/Users/romed/OneDrive/Desktop/Cybersecurity%20JJ/Google%20Cert/Linux/File%20permissions%20in%20Linux%20JJ.pdf)
 - <b>Active Directory (Components)</b>
-  - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://g)
