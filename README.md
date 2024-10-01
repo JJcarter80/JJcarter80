@@ -2,20 +2,20 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Describe and Change File Permissions (Linux)</b>
+- <b>File Permissions Management (Linux Admin)</b>
   - [Linux File Permissions](file:///C:/Users/romed/OneDrive/Desktop/Cybersecurity%20JJ/Google%20Cert/Linux/File%20permissions%20in%20Linux%20JJ.pdf)
 - <b>Active Directory (Components)</b>
   - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://g)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://gitjoshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Python </b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [JWipe (Disk Wiping Utility)]()
+  - [Active Directory Bulk User Creation]()
+  - [FIM (File Integrity Monitor)]()
+- <b>Endpoint Detection Response</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Intrusion Detection/Prevention</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>CERTIFICATIONS </h2>
