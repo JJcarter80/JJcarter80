@@ -5,18 +5,19 @@
 - <b>File Permissions Management (Linux Admin)</b>
   - [Linux File Permissions](file:///C:/Users/romed/OneDrive/Desktop/Cybersecurity%20JJ/Google%20Cert/Linux/File%20permissions%20in%20Linux%20JJ.pdf)
 - <b>Active Directory (Components)</b>
-  - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Active Directory]() <b><i></b></i>
 - <b>Python </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
   - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 - <b>Endpoint Detection Response</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)]()
+  - [Ransomware Proof of Concept (Decrypter)]()
+  - [Keylogger with Email Capability]()
 - <b>Intrusion Detection/Prevention</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application ()
+  - Cisco Packet Sniffer
 
 <h2>CERTIFICATIONS </h2>
 
