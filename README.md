@@ -1,13 +1,13 @@
-<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Python Automation Programmer</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">YouTuber</a></h1>
+<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Python Programmer</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>File Permissions Management (Linux Admin)</b>
-  - [Linux File Permissions](file:///C:/Users/romed/OneDrive/Desktop/Cybersecurity%20JJ/Google%20Cert/Linux/File%20permissions%20in%20Linux%20JJ.pdf)
+  - [Linux File Permissions](https://drive.google.com/file/d/1I9V38lTvDlqeCIzCghNGWp9hOjk8oTYo/view?usp=drive_link)
 - <b>Active Directory (Components)</b>
   - [Active Directory]() <b><i></b></i>
 - <b>Python </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [File Update using a Python Algorithm ](https://drive.google.com/file/d/1Dib3wwP5G6-D-eSoe2wsioQNQwUN4sYN/view?usp=drive_link)
   - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
