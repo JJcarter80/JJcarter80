@@ -5,7 +5,7 @@
 - <b>File Permissions Management (Linux Admin)</b>
   - [Linux File Permissions](https://drive.google.com/file/d/1I9V38lTvDlqeCIzCghNGWp9hOjk8oTYo/view?usp=drive_link)
 - <b>SQL Queries (System Administration)</b>
-  - [System Administration/Lease Privledge](https://drive.google.com/file/d/19nRk0rLEHJz1aK2A6INOqnM4Pk2sbinL/view?usp=drive_link) <b><i></b></i>
+  - [System Administration/Lease Privilege](https://drive.google.com/file/d/19nRk0rLEHJz1aK2A6INOqnM4Pk2sbinL/view?usp=drive_link) <b><i></b></i>
 - <b>Python </b>
   - [File Update using a Python Algorithm ](https://drive.google.com/file/d/1Dib3wwP5G6-D-eSoe2wsioQNQwUN4sYN/view?usp=drive_link)
   - [JWipe (Disk Wiping Utility)]()
