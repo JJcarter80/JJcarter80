@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Cloud Solutions Architect</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">Data Analyst</a></h1>
+<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Cloud Solutions Architect</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Engineer</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">Data Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
