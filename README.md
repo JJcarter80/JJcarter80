@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability]()
 
  
-  <h2>👨‍💻 Data Analyst:</h2>
+  <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>SQL Data Exloration (SQL)</b>
   - [Linux File Permissions]()
