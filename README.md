@@ -16,8 +16,8 @@
   - [Ransomware Proof of Concept (Decrypter)]()
   - [Keylogger with Email Capability]()
 - <b>Intrusion Detection/Prevention</b>
-  - [Package Delivery Application ()
-  - Cisco Packet Sniffer
+  - [Package Delivery Application] ()
+  - [Cisco Packet Sniffer]
  
   <h2>👨‍💻 Data Analyst:</h2>
 
@@ -36,6 +36,19 @@
 
 
   <h2>👨‍💻 Cloud Security Projects:</h2>
+- <b>AWS Cloud Security (AWS) </b>
+  - [AWS]()
+- <b>Google Cloud Platform (GCP)</b>
+  - [GCP]() <b><i></b></i>
+- <b>Azure Cloud Security </b>
+  - [Microsoft Sentinel, Microsoft Defender]()
+- <b>Identity and Access Management (IAM) </b>
+  - [Business Intelligence Project]()
+- <b>Configuring Logging and Monitoring </b>
+  - [Security controls configurations]()
+- <b> Security Groups and Network Access Control Lists  </b>
+  - []()
+
 
     
 
