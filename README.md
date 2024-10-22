@@ -18,6 +18,19 @@
 - <b>Intrusion Detection/Prevention</b>
   - [Package Delivery Application ()
   - Cisco Packet Sniffer
+ 
+  <h2>👨‍💻 Data Analyst:</h2>
+
+- <b>SQL Data Exloration (SQL)</b>
+  - [Linux File Permissions]()
+- <b>Tableau Visualization (Tableau)</b>
+  - [Tableau Visualizaiton]() <b><i></b></i>
+- <b>Data Cleaning in Excel </b>
+  - [Data Cleaning in Excel](https://drive.google.com/file/d/1Dib3wwP5G6-D-eSoe2wsioQNQwUN4sYN/view?usp=drive_l
+  -
+  <h2>👨‍💻 Cloud Security Projects:</h2>
+
+    
 
 <h2>CERTIFICATIONS </h2>
 
