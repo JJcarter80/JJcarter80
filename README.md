@@ -26,8 +26,15 @@
 - <b>Tableau Visualization (Tableau)</b>
   - [Tableau Visualizaiton]() <b><i></b></i>
 - <b>Data Cleaning in Excel </b>
-  - [Data Cleaning in Excel](https://drive.google.com/file/d/1Dib3wwP5G6-D-eSoe2wsioQNQwUN4sYN/view?usp=drive_l
-  -
+  - [Data Cleaning in Excel]()
+- <b>Microsoft Power BI </b>
+  - [Business Intelligence Project]()
+- <b>Web Scraping Using Python </b>
+  - [PYTHON]()
+- <b> Interactive Dashboards </b>
+  - [Interactive Dashboards]()
+
+
   <h2>👨‍💻 Cloud Security Projects:</h2>
 
     
