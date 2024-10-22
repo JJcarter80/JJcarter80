@@ -15,9 +15,7 @@
   - [Ransomware Proof of Concept (Encrypter)]()
   - [Ransomware Proof of Concept (Decrypter)]()
   - [Keylogger with Email Capability]()
-- <b>Intrusion Detection/Prevention</b>
-  - [Package Delivery Application] ()
-  - [Cisco Packet Sniffer]
+
  
   <h2>👨‍💻 Data Analyst:</h2>
 
