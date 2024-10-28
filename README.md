@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Cloud Solutions Architect</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Engineer</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">Data Analyst</a></h1>
+<h1>Hi, I'm Jerome! <br/><a href="https://github.com/JJcarter80">Data Analyst</a>, <a href="https://www.linkedin.com/in/jerome--johnson/">Cybersecurity Engineer</a>, <a href="https://www.youtube.com/c/@learntodaywithJJ">Cloud Solutions Architect</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -19,8 +19,8 @@
  
   <h2>👨‍💻 Data Analyst Projects:</h2>
 
-- <b>SQL Data Exloration (SQL)</b>
-  - [Linux File Permissions]()
+- <b>Predictive Machine Learning Model </b>
+  - [International Moving Company]()
 - <b>Tableau Visualization (Tableau)</b>
   - [Tableau Visualizaiton]() <b><i></b></i>
 - <b>Data Cleaning in Excel </b>
